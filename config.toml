@@ -1,7 +1,7 @@
 baseurl = "https://geog215-spds.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "STA 199"
+title = "GEOG 215"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
@@ -20,11 +20,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   archive = "archives"
 
 [author]
-  name = "Mine Cetinkaya-Rundel"
+  name = "Varun Goel"
   bio = ""
-  job = "Associate Professor of the Practice"
-  location = "Duke University"
-  gravatarEmail = "mine@stat.duke.edu"
+  job = "PhD Candidate, Department of Geography"
+  location = "University of North Carolina Chapel Hill"
+  gravatarEmail = "varung@live.unc.edu"
   # Your profile picture
 #  picture = ""
   twitter = "minebocek"
@@ -50,22 +50,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "/policies"
 [[menu.main]]
   weight = 4
-  identifier = "rstudio"
+  identifier = "resources"
   name = "RStudio"
   pre = "<i class=\"material-icons\">cloud_queue</i>"
   url = "https://rstudio.cloud"
 [[menu.main]]
   weight = 5
-  identifier = "github"
+  identifier = "readings"
   name = "GitHub"
   pre = "<i class='fab fa-github fa-lg'></i>"
   url = "https://github.com/Sta199-S18"
-[[menu.main]]
-  weight = 6
-  identifier = "help"
-  name = "Help"
-  pre = "<i class=\"material-icons\">help</i>"
-  url = "https://github.com/Sta199-S18/community/issues"
 
 
 [[menu.footer]]
