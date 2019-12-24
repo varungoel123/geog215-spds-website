@@ -57,9 +57,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
   weight = 5
   identifier = "readings"
-  name = "Readinfs"
+  name = "Readings"
   pre = "<i class='fab fa-github fa-lg'></i>"
-  url = "https://github.com/Sta199-S18"
+  url = "/readings"
 
 
 [[menu.footer]]
