@@ -3,5 +3,8 @@
 .RData
 .Ruserdata
 blogdown
-*.DS_Store # if a windows user, Thumbs.db instead
+.DS_Store # if a windows user, Thumbs.db instead
 public/** # if using Netlify
+public/**
+*.DS_Store
+docs/.DS_Store
