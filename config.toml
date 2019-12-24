@@ -1,7 +1,7 @@
 baseurl = "https://geog215-spds.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "GEOG 215"
+title = "GEOG 215: Introduction to Spatial Data Science"
 theme = "material"
 #disqusShortname = ""
 # googleAnalytics = ""
